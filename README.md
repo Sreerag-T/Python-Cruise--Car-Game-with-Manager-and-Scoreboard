@@ -1,0 +1,2 @@
+# Python Cruise: Car Game with Manager and Scoreboard
+ Dive into the adrenaline-pumping world of Python Cruise, a captivating Car Game with a sophisticated Car Manager and Scoreboard. As the developer, I've meticulously crafted an immersive gaming experience, providing players with dynamic control and a competitive edge. Explore the code on GitHub to witness the seamless blend of gameplay, management, and scoring that makes this project a standout in Python game development
